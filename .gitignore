@@ -62543,38 +62543,3 @@ yarn-error.log*
 .settings/
 *.sublime-project
 *.sublime-workspace
-
-# ---------- OS Generated Files ----------
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
-desktop.ini
-
-# ---------- Streamlit ----------
-.streamlit/secrets.toml
-
-# ---------- Docker ----------
-.dockerignore
-
-# ---------- Gemini API Keys / Secrets ----------
-secrets.json
-credentials.json
-config/secrets.py
-*apikey*.txt
-
-# ---------- Temporary Files ----------
-*.tmp
-*.temp
-*.bak
-*.orig
-*.swp
-
-# ---------- Coverage & Testing Reports ----------
-.nyc_output/
-junit.xml
-test-results/
-playwright-report/
