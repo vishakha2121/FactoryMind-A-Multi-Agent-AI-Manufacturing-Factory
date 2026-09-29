@@ -59740,19 +59740,3 @@ These agents continuously sense their environment, make decisions using **Google
 |---|-------|----------------|
 | 1 | 🏭 **Production Agent** | Plans and schedules manufacturing orders, allocates machines, and optimizes throughput. |
 | 2 | ✅ **Quality Agent** | Inspects output, detects defects, classifies product grades, and triggers rework decisions. |
-| 3 | 🔧 **Maintenance Agent** | Monitors machine health, predicts breakdowns, and schedules preventive maintenance. |
-| 4 | 📦 **Inventory Agent** | Tracks raw material stock, forecasts demand, and raises restock alerts before shortages. |
-| 5 | 🚚 **Logistics Agent** | Manages shipment routing, delivery timelines, and coordinates dispatch schedules. |
-| 6 | ⚡ **Energy Agent** | Analyzes power consumption across machines, detects anomalies, and reduces energy waste. |
-
-### 🎯 Orchestrator Agent
-
-All six agents are supervised by an **Orchestrator Agent** that:
-- Feeds each agent with real-time factory context
-- Collects decisions from each agent
-- Resolves conflicts (e.g., maintenance vs. production priority)
-- Produces a unified factory action plan per cycle
-
----
-
-## 🛠 Tech Stack
