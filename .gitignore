@@ -52518,8 +52518,4 @@ All six agents are supervised by an **Orchestrator Agent** that:
 | **Backend** | Python 3.10+, FastAPI, SQLAlchemy, Uvicorn |
 | **AI / LLM** | Google Gemini API (`gemini-1.5-flash`) |
 | **Frontend** | React (Vite), Tailwind CSS, Framer Motion, Recharts |
-| **Real-time** | WebSockets for live agent updates |
-| **Database** | SQLite with raw SQL scripts |
-| **Authentication** | JWT-based simple authentication |
-| **Version Control** | Git + GitHub |
-
+| **Real-time*
